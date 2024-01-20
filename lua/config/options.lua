@@ -28,4 +28,3 @@ vim.opt.breakat = " ^I!@*-+;:,./?"
 vim.g.leader = " "
 
 vim.g.netrw_list_hide = ".DS_Store"
-

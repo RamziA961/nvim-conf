@@ -1,4 +1,0 @@
--- vim.g['airline#extensions#tabline#enabled'] = 1
--- vim.g['airline#extensions#tabline#formatter'] = 'jsformatter'
--- vim.g['airline_theme'] = 'sonokai'
--- vim.g['airline_statusline_ontop'] = 1
