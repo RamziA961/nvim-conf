@@ -25,6 +25,9 @@ vim.wo.wrap = true
 vim.opt.linebreak = true
 vim.opt.breakat = " ^I!@*-+;:,./?"
 
+vim.opt.spelllang = "en_us"
+vim.opt.spell = true
+
 vim.g.leader = " "
 
 vim.g.netrw_list_hide = ".DS_Store"
